@@ -56,4 +56,4 @@ cannot accurately be described by the chosen parameters.</i>
         model_GBR.pkl
         model_SVR_reg.pkl
  ``` 
-<i>Contains the prediction models and the features train and test. </i>
+<i>Contains the prediction models and the train and test set. </i>
