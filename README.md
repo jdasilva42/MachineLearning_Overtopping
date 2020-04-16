@@ -1,6 +1,6 @@
 ## Purpose
 
-<i>The overtopping discharge is usually computed from an empirical method explain in the Eurotop manual (http://www.overtopping-manual.com).
+<i>The overtopping discharge is usually computed from an empirical method explains in the Eurotop manual (http://www.overtopping-manual.com).
   
 Based on the CLASH dataset (explaned below), Gradient Boosting Regressor and SVR regression have been trained for predict opvertopping discharges from specific inputs.</i>
 
